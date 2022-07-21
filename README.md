@@ -12,7 +12,7 @@ semantec.v 定义了命题逻辑系统的语义，给出了一个对所有永真
 
 classical_logic_axiom_system_equivalence.v 定义了另外三种命题逻辑系统，并证明它们与L等价
 
-Mappings.v参考了https://github.com/QinxiangCao/Countable_PaperSubmission ，这部分的目的是为了证明存在Formula->nat的单射
+Mappings.v 映射和可数性相关定义和性质
 
 bijection_nat_Formula.v 证明了Bernstein定理，从而证明了存在nat->Formula的双射
 
